@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local state
+.claude/
+
+# IDE
+.vscode/
+.idea/
+
+# Symlinks to external repos (local convenience only)
+companies/*/repos/
+
+# Temp / artifacts
+*.log
+*.tmp
